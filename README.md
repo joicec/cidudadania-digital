@@ -14,3 +14,7 @@ El proyecto unifica los datos de las encuestas realizadas en los años 2021 y 20
   
 - **Visualizaciones**: Se generaron gráficos y tablas para ilustrar los hallazgos clave, facilitando la comprensión de los datos y resultados obtenidos.
 
+- - ## Autor
+Desarrollado por Joice Clavijo (www.linkedin.com/in/joice-clavijo).
+
+
